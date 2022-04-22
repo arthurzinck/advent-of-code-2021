@@ -1,0 +1,4 @@
+github.com/GaryBoone/GoStats v0.0.0-20130122001700-1993eafbef57 h1:EUQH/F+mzJBs53c75r7R5zdM/kz7BHXoWBFsVXzadVw=
+github.com/GaryBoone/GoStats v0.0.0-20130122001700-1993eafbef57/go.mod h1:5zDl2HgTb/k5i9op9y6IUSiuVkZFpUrWGQbZc9tNR40=
+github.com/echojc/aocutil v0.0.0-20211125040159-e71bcb34f68f h1:IVbDKHoZJYB6lLU18+5ZsHPeTzr4AmrJMrGd7y8FogY=
+github.com/echojc/aocutil v0.0.0-20211125040159-e71bcb34f68f/go.mod h1:rNP1uUTizLNEwInSxs+oNsw+yBfHNhUg9y+kCI15MjQ=
